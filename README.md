@@ -59,7 +59,7 @@ qbar=~q;
 end 
 endmodule
 ```
-Developed by: Kaaviyan.k
+Developed by: Kaaviyan.K
 RegisterNumber: 24006507
 */
 
